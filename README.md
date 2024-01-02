@@ -1,5 +1,5 @@
-USING PYTHON CODE:-
-CALCULATOR,
-PASSWORD GENERATOR,
-ROCK PAPER-SCISSORS GMAE
-
+- Hi, I'm @kapil212a(Kapil Kumar Gupta)
+- I'm intrested in coding
+- I'am currently learning web development
+- Reach me at my E-mail id- amangupta74086@gmail.com
+- my WhatsApp Number is: 7408628560
